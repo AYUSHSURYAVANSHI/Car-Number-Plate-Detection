@@ -29,7 +29,7 @@ This project leverages the power of computer vision and machine learning to accu
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/car-number-plate-detection.git
+    https://github.com/AYUSHSURYAVANSHI/Car-Number-Plate-Detection.git
     ```
 2. **Install Dependencies**
     ```bash
